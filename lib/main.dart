@@ -40,7 +40,7 @@ class DomeApp extends StatelessWidget {
                 ),
                 child: MaterialApp(
                   title: BStrings.appName,
-                  theme: BThemes.light,
+                  theme: BThemes.primary,
                   debugShowCheckedModeBanner: false,
                   onGenerateRoute: AppRoute.getRoute,
                   navigatorKey: NavigatorKey.appNavigatorKey,
