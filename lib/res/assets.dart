@@ -1,0 +1,10 @@
+const String inappLogo = "assets/logo/inapplogo.png";
+const String onboardingImage1 = "assets/images/onboarding1.png";
+const String onboardingImage2 = "assets/images/onboarding2.png";
+const String googleIcon = "assets/svgs/google_icon.svg";
+const String appleIcon = "assets/svgs/apple_icon.svg";
+const String onboardingImage3 = "assets/images/onboarding3.png";
+const String notificationsCheck = "assets/svgs/notifications_check.svg";
+const String notificationError = "assets/svgs/notifications_error.svg";
+const String eyeCancelIcon = "assets/svgs/eye_cancel.svg";
+const String successViewIcon = "assets/svgs/success_icon.svg";
