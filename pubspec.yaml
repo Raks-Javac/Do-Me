@@ -47,25 +47,25 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
-  # assets:
-    # - assets/images/
-    # - assets/svgs/
-    # - assets/logo/
+  assets:
+    - assets/images/
+    - assets/svgs/
+    - assets/logo/
 
 
-  # fonts:
-  #   - family: Poppins
-  #     fonts:
-  #       - asset: assets/fonts/CodecPro-Bold.ttf
-  #         weight: 900
-  #       - asset: assets/fonts/CodecPro-Bold.ttf
-  #         weight: 700
-  #       - asset: assets/fonts/CodecPro-Regular.ttf
-  #         weight: 500
-  #       - asset: assets/fonts/CodecPro-Regular.ttf
-  #         weight: 400
-  #       - asset: assets/fonts/CodecPro-Light.ttf
-  #         weight: 300
-  #       - asset: assets/fonts/CodecPro-Thin.ttf
-  #         weight: 200
+  fonts:
+    - family: PTSans
+      fonts:
+        - asset: assets/fonts/PTSans-Bold.ttf
+          weight: 900
+        - asset: assets/fonts/PTSans-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/PTSans-Regular.ttf
+          weight: 500
+        - asset: assets/fonts/PTSans-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/PTSans-Regular.ttf
+          weight: 300
+        - asset: assets/fonts/PTSans-Regular.ttf
+          weight: 200
 

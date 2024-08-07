@@ -1,16 +1,20 @@
 import 'package:flutter/material.dart';
 
 class BColors {
-  static const Color primaryColor = green02;
-  static const Color backgroundColor = white;
+  static const Color primaryColor = purpleFC;
+  static const Color backgroundColor = appBlack22;
   static const Color white = Color(0xFFFFFFFF);
+  static const Color appBlack22 = Color(0xFF161922);
+  static const Color primaryColorInActive3FF = Color(0xFFEBD3FF);
+  static const Color lightappBlack2E = Color(0xFF1E222E);
   static const Color black = Colors.black;
+  static const Color green68 = Color(0xFF86C768);
+  static const Color red6D = Color(0xFFC7686D);
 
   //greay pallete
 
   static const Color tabBackgroundColor = Color(0x339A9A9A);
 
-  static const Color red1B = Color(0xFFB21B1B);
   static const Color red10 = Color(0xFFFF0010);
   static const Color error36 = Color(0xFFFA3636);
 
@@ -27,10 +31,10 @@ class BColors {
   static const Color grey000 = Color(0xFF000000);
   static const Color greenE6 = Color(0xFFECF4E6);
   static const Color greenB3 = Color(0xFFC5DEB3);
-  static const Color green80 = Color(0xFF9FC780);
+
   static const Color green4E = Color(0xFF79B14E);
   static const Color green1B = Color(0xFF529B1B);
-  static const Color green02 = Color(0xFF3F9002);
+  static const Color purpleFC = Color(0xFFC177FC);
   static const Color green00 = Color(0xFF267700);
   static const Color green0C = Color(0xFF0C5D00);
   static const Color green44 = Color(0xFF004400);
